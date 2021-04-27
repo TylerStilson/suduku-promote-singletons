@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://check.sourceforge.net/xml/check_unittest.xslt"?>
+<testsuites xmlns="http://check.sourceforge.net/ns">
+  <datetime>2021-04-20 17:08:20</datetime>
+  <suite>
+    <title>alltests</title>
+    <test result="success">
+      <path>.</path>
+      <fn>tests.check:86</fn>
+      <id>test_nop</id>
+      <iteration>0</iteration>
+      <duration>0.000094</duration>
+      <description>test_nop</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>tests.check:122</fn>
+      <id>test_no_cascade</id>
+      <iteration>0</iteration>
+      <duration>0.000068</duration>
+      <description>test_no_cascade</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>tests.check:158</fn>
+      <id>test_with_cascade</id>
+      <iteration>0</iteration>
+      <duration>0.000113</duration>
+      <description>test_with_cascade</description>
+      <message>Passed</message>
+    </test>
+    <test result="success">
+      <path>.</path>
+      <fn>tests.check:223</fn>
+      <id>test_with_solve</id>
+      <iteration>0</iteration>
+      <duration>0.000207</duration>
+      <description>test_with_solve</description>
+      <message>Passed</message>
+    </test>
+  </suite>
+  <duration>0.014424</duration>
+</testsuites>
